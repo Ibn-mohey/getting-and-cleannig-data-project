@@ -31,10 +31,10 @@ Good luck!
 ## Review Criteria
 Goal | Item | Link 
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script]( "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set]( "tidyData.txt")
-Github Repo | Repo |  [Repo]( "Click to go to Repo")
-Cookbook | CodeBook.md |  [CodeBook.md]( "CodeBook.md")
+Analysis R Script |  run_analysis.R |  [R Script](https://github.com/Ibn-mohey/getting-and-cleannig-data-project/run_analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set](https://github.com/Ibn-mohey/getting-and-cleannig-data-project/Data/tidyData.txt "tidyData.txt")
+Github Repo | Repo |  [Repo](https://github.com/Ibn-mohey/getting-and-cleannig-data-project "Click to go to Repo")
+Cookbook | CodeBook.md |  [CodeBook.md](https://github.com/Ibn-mohey/getting-and-cleannig-data-project/CodeBook.md "CodeBook.md")
 
 ## special thank for Michael	Galarnyk	for the explanation on the way.
 ## special thank for every one how contributed on the fourm it was really helpfull 
