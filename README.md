@@ -29,6 +29,7 @@ You should create one R script called run_analysis.R that does the following.
 Good luck!
 
 ## Review Criteria
+Goal | Item | Link 
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [R Script]( "run_analysis.R")
 Tidy Data Set |  Clean Data Set |  [Data Set]( "tidyData.txt")
